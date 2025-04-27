@@ -1,10 +1,17 @@
 # Databricks-Data-Engineer-professional-exam
 
-[Follow the below study material along with the databricks notebooks]:
+Follow the below study material along with the databricks notebooks:
    
   * [Course material](/Learning%materials) MUST MUST GO THROUGH ALL OF THESE--NO SKIPPING
   * [Practice from these notebooks throroughly](/Databricks%Notebooks)
-  * 
+  * Databricks learning academy (entroll to the self-learning modules):
+       1. Databricks Streaming and Delta Live Tables
+       2. Databricks Data Privacy
+       3. Databricks Performance Optimization
+       4. Data Management and Governance with Unity Catalog
+       5. Deploy Workloads with Databricks Workflows
+    
+
 ## Databricks official Documentation Links:
 
 No matter what, please read these databricks docs. Note the Important tags in these pages and questions at the end on some pages.
