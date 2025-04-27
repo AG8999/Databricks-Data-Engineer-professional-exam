@@ -2,8 +2,8 @@
 
 Follow the below study material along with the databricks notebooks:
    
-  * [Course material](/Learning%materials) MUST MUST GO THROUGH ALL OF THESE--NO SKIPPING
-  * [Practice all of these notebooks throroughly](/Databricks%Notebooks)
+  * [Course material](/Learning%materials/) MUST MUST GO THROUGH ALL OF THESE--NO SKIPPING
+  * [Practice all of these notebooks throroughly](/Databricks%Notebooks/)
   * Databricks learning academy (entroll to the self-learning modules):
        1. Databricks Streaming and Delta Live Tables
        2. Databricks Data Privacy
