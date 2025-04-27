@@ -1,16 +1,11 @@
 # Databricks-Data-Engineer-professional-exam
 
-# Databricks Certified Data Engineer Professional Questions
-
-## Suggestions
-
 [Follow the below study material along with the databricks notebooks]:
    
-  * [Course material](/Learning%materials) ** MUST GO THROUGH ALL OF THESE--NO SKIPPING**
+  * [Course material](/Learning%materials) MUST MUST GO THROUGH ALL OF THESE--NO SKIPPING
   * [Practice from these notebooks throroughly](/Databricks%Notebooks)
-  * [Udemy Practice](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)[I personally opted this which is MUST. Use Udemy for Bussiness for free]
-
-## Must Read hyperlinks
+  * 
+## Databricks official Documentation Links:
 
 No matter what, please read these databricks docs. Note the Important tags in these pages and questions at the end on some pages.
 
